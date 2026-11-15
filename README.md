@@ -1,5 +1,7 @@
 # Hi, I'm Siarhei 👋
 
+🏅 **Level 1 Contributor**: a [GitLab community contributor](https://gitlab.com/groups/gitlab-org/achievements/-/achievements), awarded by gitlab-org. Just for fun 😄
+
 Senior Full-Stack / Backend Engineer with **10+ years** of experience building and running production systems: **Node.js / TypeScript** backends, **Angular** and **React** frontends, and **AWS** / **GCP** infrastructure with **Terraform**.
 
 > 📌 My GitHub is small because I worked in company repositories and used [GitLab](https://gitlab.com/siarheiBokuts) for my own projects.
@@ -40,4 +42,4 @@ Senior Full-Stack / Backend Engineer with **10+ years** of experience building a
 
 Looking for a **senior full-stack or backend-lead role** with end-to-end ownership of complex systems.
 
-💼 [LinkedIn](https://www.linkedin.com/in/siarhei-bokuts) · 🦊 [GitLab](https://gitlab.com/siarheiBokuts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siarhei-bokuts) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/siarheiBokuts)
